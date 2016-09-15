@@ -97,12 +97,12 @@ Use case ends.
 
 3a. The given index is invalid
 
-> 3a1. AddressBook shows an error message <etk>
-  Use case resumes at step 2
+> 3a1. AddressBook shows an error message <br>
+  Use case resumes at step 3
   
 5a. User declines or provides invalid input
 
-> 5a1. AddressBook shows an message indicating operation not carried out <etk>
+> 5a1. AddressBook shows an message indicating operation not carried out <br>
   Use case ends
 
 ## Appendix C : Non Functional Requirements
